@@ -50,8 +50,8 @@ p {
 a {
     color: #1E2F40;
     background-color: #FBB731;
-    border-radius: 5px; /* - закругление углов */
-    text-decoration: none; /* - убераем поддчеркивание ссылки (кнопка) */
+    border-radius: 5px;
+    text-decoration: none;
     padding: 20px 45px;
     display: inline-block;
     text-transform: uppercase;
